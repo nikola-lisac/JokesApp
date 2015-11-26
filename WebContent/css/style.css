@@ -1,0 +1,42 @@
+.jumbotron {
+	background: url('img/image.jpg');
+	height: 450px;
+}
+
+#header {
+	display:block;
+	font-family: 'Lobster', cursive, 'Verdana';
+}
+#joke {
+	padding: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	-webkit-border-radius: 20;
+  	-moz-border-radius: 20;
+	border-radius: 20px;
+	background-color: white;
+	opacity: 0.85;
+	color: black;
+	text-align: left;
+	font-family: Verdana,Sans-Serif;
+}
+.btn {
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20px;
+  font-family: Arial;
+  color: #5c575c;
+  font-size: 14px;
+  background: #ffffff;
+  padding: 10px 20px 10px 20px;
+  border: solid #565757 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #d7d9db;
+  text-decoration: none;
+}
+#emptySpace {
+	height:50px;
+}
